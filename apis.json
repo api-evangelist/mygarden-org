@@ -1,0 +1,75 @@
+{
+    "name": "MyGarden.org",
+    "description": "Manage your garden online, receive specific information for your garden and share your knowledge with others.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1029-mygarden-org.jpg",
+    "tags": [
+        "api not found",
+        "have api",
+        "shopping",
+        "social",
+        "trees"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mygarden-org\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MyGarden.org",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1029-mygarden-org.jpg",
+            "humanURL": "http:\/\/www.mygarden.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mygarden-org-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mygarden-org-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mygarden.org\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.mygarden.org\/feed"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.mygarden.org\/dev\/"
+        },
+        {
+            "type": "Email",
+            "url": "helpdesk@mygarden.org"
+        },
+        {
+            "type": "Email",
+            "url": "sales@mygarden.org"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@mygarden.org"
+        },
+        {
+            "type": "Email",
+            "url": "info@myGarden.org"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mygarden_org"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mygarden.org"
+        }
+    ]
+}
